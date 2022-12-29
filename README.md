@@ -11,3 +11,4 @@ COVID-19 CT Segmentation dataset is available at https://medicalsegmentation.com
 
 Model
 ==
+![image](https://github.com/peng778866/SSA-Net-pytorch/blob/main/SSA-Net/SSA-Net-architecture.jpg)
