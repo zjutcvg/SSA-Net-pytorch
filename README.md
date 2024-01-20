@@ -15,7 +15,7 @@ Model
 
 Cite this work
 ==
-If you use PointAttN in your work, please cite our paper:
+If you use SSA-Net in your work, please cite our paper:
 
 ```@article{wang2022ssa,
   title={SSA-Net: Spatial self-attention network for COVID-19 pneumonia infection segmentation with semi-supervised few-shot learning},
